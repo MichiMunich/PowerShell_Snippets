@@ -12,9 +12,9 @@ $PasswordFile = "C:\Temp\Password.txt"
 $Password = "MyVerySpecialSecretPassword"
 
 #--------------------------------
-#								-
-#   STOP CHANGING THINGS NOW    -
-#								-
+#					
+#   STOP CHANGING THINGS NOW  
+#							
 #--------------------------------
 
 # create AES-256 keyfile
